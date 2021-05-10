@@ -1,37 +1,9 @@
 ## Baleia Azul
 
-You can use the [editor on GitHub](https://github.com/thissimendes/baleia.azul.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A baleia-azul (Balaenoptera musculus) é um mamífero marinho pertencente à subordem Mysticeti dos cetáceos. Com até 30 m de comprimento[2] e mais de 180 t de peso,[3] são os maiores animais que já existiram.[4]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Longo e esguio, o corpo das baleias-azuis apresenta seu dorso em diferentes tons azuis-acinzentados, enquanto seu ventre é geralmente mais claro.[5] Existem pelo menos três subespécies distintas: B. m. musculus, cujo habitat restringe-se ao norte dos oceanos Atlântico e Pacífico, B. m. intermedia, do oceano Antártico e B. m. brevicauda (também conhecida como baleia-azul-pigmeia), encontrada no oceano Índico e no sul do oceano Pacífico. B. m. indica, do oceano Índico, pode ser uma outra subespécie. Como é o caso das outras espécies pertencentes à subordem Mysticeti, a dieta das baleias-azuis consiste quase que exclusivamente de pequenos crustáceos conhecidos como krill, os quais filtram da água do mar usando lâminas córneas em sua cavidade bucal.[6] Porém, elas também podem se alimentar de pequenos peixes e lulas.
 
-### Markdown
+As baleias-azuis eram, até ao início do século XX abundantes em quase todos os oceanos. Caçadas durante mais de um século, foram levadas à beira da extinção pelos baleeiros, até se tornarem objeto de mecanismos de proteção adotados pela comunidade internacional em 1996. Um relatório de 2002 estimou que existam de cinco a doze mil baleias-azuis ao redor do mundo,[7] distribuídas em pelo menos cinco agrupamentos. Contudo, pesquisas mais recentes sobre as subespécies pigmeias sugerem que a população atual é maior.[8] Antes de serem caçadas, o maior agrupamento estava na Antártida, com aproximadamente 239 000 indivíduos.[9] Os agrupamentos remanescentes atuais, muito menores, com algo em torno de 2000 indivíduos cada, estão localizados a noroeste dos oceanos Pacífico, Antártico e Índico. Outros dois agrupamentos de baleias-azuis encontram-se ao norte do oceano Atlântico, e há pelos menos outros dois no Hemisfério Sul.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thissimendes/baleia.azul.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A nadadeira dorsal das baleias-azuis é pequena,[10] visível apenas por um curto período de tempo, enquanto mergulham. Através de seu espiráculo, elas podem produzir jatos de água de até 9 m de altura. O volume de seus pulmões pode chegar a 5 000 ℓ. Elas também são os animais mais ruidosos do mundo, podendo emitir sons que atingem os 188 dB — mais fortes que o som de um avião a jato — e que podem ser ouvidos a mais de 800 km de distância.[3]
